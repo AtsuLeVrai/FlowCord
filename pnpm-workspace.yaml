@@ -1,0 +1,7 @@
+packages:
+  - apps/*
+  - internals/*
+onlyBuiltDependencies:
+  - '@biomejs/biome'
+  - core-js-pure
+  - sharp
